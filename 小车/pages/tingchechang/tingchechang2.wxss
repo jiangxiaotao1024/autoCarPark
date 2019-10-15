@@ -1,0 +1,9 @@
+.xiaoche{width:40rpx;height:100rpx;background-color: black;position: absolute;}
+  .chetou{width: 40rpx;height: 20rpx;background-color: rgb(132, 0, 255)}
+.dian{width:10rpx;height: 10rpx;border-radius:5rpx;position:absolute;background-color: red;}
+.ruku3{position: absolute;top:1000rpx;left: 600rpx;}
+.chuku3{position: absolute;top:1100rpx;left: 600rpx;}
+.ruku2{position: absolute;top:800rpx;left: 600rpx;}
+.chuku2{position: absolute;top:900rpx;left: 600rpx;}
+.ruku1{position: absolute;top:600rpx;left: 600rpx;}
+.chuku1{position: absolute;top:700rpx;left: 600rpx;}

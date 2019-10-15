@@ -1,0 +1,17 @@
+{
+  "pages": [
+    "pages/tingchechang2/tingchechang2",
+    "pages/xunji/xunji",
+    "pages/zuocetieqiang/zuocetieqiang",
+    "pages/bizhang/bizhang",
+    "pages/jichu/jichu",
+    "pages/tingchechang/tingchechang",
+    "pages/tingchechang1/tingchechang1"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black"
+  }
+}

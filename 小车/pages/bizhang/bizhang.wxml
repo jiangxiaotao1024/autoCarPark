@@ -1,0 +1,12 @@
+<canvas canvas-id="huabu"  style='width:750rpx;height:1206rpx'>
+</canvas>
+<view class='xiaoche' style='top:{{top}}rpx;left:{{left}}rpx;transform:rotate({{xuanzhuan}}deg)' >
+   <view class='chetou'></view>
+</view>
+<view class='dian' style='top:{{diany-5}}rpx;left:{{dianx-5}}rpx;' ></view>
+<view class='dian' style='top:{{dian1y-5}}rpx;left:{{dian1x-5}}rpx;' ></view>
+<button class='qianjin' bindtap='qianjin'>前进</button>
+<button class='zuozhuan' bindtouchstart='zuozhuan' bindtouchend="tingzhuan">左转</button>
+<button class='youzhuan' bindtouchstart='youzhuan' bindtouchend="tingzhuan">右转</button>
+<button class='houtui' bindtap='houtui'>后退</button>
+<button class='tingzhi' bindtap='tingzhi'>停</button>

@@ -1,0 +1,8 @@
+<view class='xiaoche' style='top:{{top}}rpx;left:{{left}}rpx;transform:rotate({{xuanzhuan}}deg)' >
+   <view class='chetou'></view>
+</view>
+<button class='qianjin' bindtap='qianjin'>前进</button>
+<button class='zuozhuan' bindtouchstart='zuozhuan' bindtouchend="tingzhuan">左转</button>
+<button class='youzhuan' bindtouchstart='youzhuan' bindtouchend="tingzhuan">右转</button>
+<button class='houtui' bindtap='houtui'>后退</button>
+<button class='tingzhi' bindtap='tingzhi'>停</button>

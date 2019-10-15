@@ -1,0 +1,7 @@
+.xiaoche{width:40rpx;height: 100rpx;background-color: black;position: absolute;}
+  .chetou{width: 40rpx;height: 20rpx;background-color: red}
+.qianjin{position: absolute;top:900rpx;left: 500rpx;}
+.zuozhuan{position: absolute;top:1000rpx;left: 400rpx;}
+.youzhuan{position: absolute;top:1000rpx;left: 600rpx;}
+.houtui{position: absolute;top:1100rpx;left:500rpx;}
+.tingzhi{position: absolute;top:1000rpx;left:510rpx;}
